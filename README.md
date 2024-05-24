@@ -3,9 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-<p align="left">
-<a href="https://www.behance.net/amnayounuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amnayounuss" height="30" width="40" /></a>
-</p>
 
 - 🔭 I’m currently working on [Flikr Innovation](https://flikrinnovation.com/#/)
 
