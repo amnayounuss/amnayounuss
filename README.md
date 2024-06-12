@@ -7,32 +7,27 @@
 ---
 <br/>
 
-<img align="right" alt="coding" width="280" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"> 
+
+<div>
+  
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://flikrinnovation.com/#/">Flikr Innovation</a></li> <br/>
+    <li>👩🏻‍💻 I’m currently learning <strong>MERN stack</strong></li> <br/>
+    <li>👨‍💻 All of my projects are available at <a href="https://linktr.ee/amnayounus">linktr.ee/amnayounus</a></li> <br/>
+    <li>💬 Ask me about <strong>JavaScript, React</strong></li> <br/>
+    <li>✉️ How to reach me <strong>amnayounus999@gmail.com</strong></li> <br/>
+    <li>⚡ Fun fact <strong>Fun fact I don't have hobby🤖</strong></li> <br/>
+  </ul>
+</div>
 
 
-• 🔭 I’m currently working on [Flikr Innovation](https://flikrinnovation.com/#/) <br/>
-
-• 👩🏻‍💻 I’m currently learning **MERN stack** <br/>
-
-• 👨‍💻 All of my projects are available at [https://linktr.ee/amnayounus](https://linktr.ee/amnayounus) <br/>
-
-• 💬 Ask me about **JavaScript, React** <br/>
-
-• ✉️ How to reach me **amnayounus999@gmail.com** <br/>
-
-• ⚡ Fun fact **Fun fact I don't have hobby🤖**
-
-<br/><br/>
-
-<!--
-| <div style="padding: 10px;">![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=amnayounuss&show_icons=true&theme=tokyonight)</div> | <div style="padding: 10px;">![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amnayounuss&theme=tokyonight)</div> |
-| --- | --- |
--->
+<br/>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amnayounuss&show_icons=true&theme=tokyonight" alt="amnayounuss" /> &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnayounuss&theme=tokyonight" /> &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnayounuss&theme=tokyonight" /> &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnayounuss&theme=tokyonight" alt="Top Langs">
 </p>
 
