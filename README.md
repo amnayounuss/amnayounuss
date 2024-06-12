@@ -7,8 +7,31 @@
 
 
 
-| <div align="left"> <li>🔭 I’m currently working on [Flikr Innovation](https://flikrinnovation.com/#/) </li><br /><li> 👩🏻‍💻 I’m currently learning **MERN stack** <br/><br /> <li> 👨‍💻 All of my projects are available at [https://linktr.ee/amnayounus](https://linktr.ee/amnayounus) </li> <br/> <li> 💬 Ask me about **JavaScript, React** </li> <br /> <li> ✉️ How to reach me **amnayounus999@gmail.com** </li> <br /> <li> ⚡ Fun fact **Fun fact I don't have hobby🤖** </li> </div> | <img align="right" alt="coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"> |
-| --- | --- |
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px; vertical-align: top;">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>🔭 I’m currently working on <a href="https://flikrinnovation.com/#/">Flikr Innovation</a></li>
+          <br />
+          <li>👩🏻‍💻 I’m currently learning <strong>MERN stack</strong></li>
+          <br />
+          <li>👨‍💻 All of my projects are available at <a href="https://linktr.ee/amnayounus">linktr.ee/amnayounus</a></li>
+          <br />
+          <li>💬 Ask me about <strong>JavaScript, React</strong></li>
+          <br />
+          <li>✉️ How to reach me <strong>amnayounus999@gmail.com</strong></li>
+          <br />
+          <li>⚡ Fun fact <strong>Fun fact I don't have hobby🤖</strong></li>
+        </ul>
+      </td>
+      <td style="padding: 10px;">
+        <img align="center" alt="coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
