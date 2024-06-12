@@ -5,12 +5,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amnayounuss&label=Profile%20views&color=0e75b6&style=flat" alt="amnayounuss" /> </p>
 
 
-<div align="">
+
 
 | <div align="left"> <li>🔭 I’m currently working on [Flikr Innovation](https://flikrinnovation.com/#/) </li><br /><li> 👩🏻‍💻 I’m currently learning **MERN stack** <br/><br /> <li> 👨‍💻 All of my projects are available at [https://linktr.ee/amnayounus](https://linktr.ee/amnayounus) </li> <br/> <li> 💬 Ask me about **JavaScript, React** </li> <br /> <li> ✉️ How to reach me **amnayounus999@gmail.com** </li> <br /> <li> ⚡ Fun fact **Fun fact I don't have hobby🤖** </li> </div> | <img align="right" alt="coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"> |
 | --- | --- |
 
-</div>
+
 
 ---
 | <div style="padding: 10px;">![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=amnayounuss&show_icons=true&theme=tokyonight)</div> | <div style="padding: 10px;">![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amnayounuss&theme=tokyonight)</div> |
