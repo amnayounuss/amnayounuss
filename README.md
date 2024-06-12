@@ -25,7 +25,7 @@
 <br/>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amnayounuss&show_icons=true&theme=tokyonight" alt="amnayounuss" />&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnayounuss&theme=tokyonight" />
 </p>
