@@ -13,7 +13,7 @@
   <ul>
     <li>🔭 I’m currently working on <a href="https://flikrinnovation.com/#/">Flikr Innovation</a></li> <br/>
     <li>👩🏻‍💻 I’m currently learning <strong>MERN stack</strong></li> <br/>
-    <li>👨‍💻 All of my projects are available at <a href="https://linktr.ee/amnayounus">linktr.ee/amnayounus</a></li> <br/>
+    <li>👨‍💻 All of my projects are available at <a href="https://amnayounuss.vercel.app/">amnayounus</a></li> <br/>
     <li>💬 Ask me about <strong>JavaScript, React</strong></li> <br/>
     <li>✉️ How to reach me <strong>amnayounus999@gmail.com</strong></li> <br/>
     <li>⚡ Fun fact <strong>Fun fact I don't have hobby🤖</strong></li> <br/>
