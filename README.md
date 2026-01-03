@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amnayounuss&show_icons=true&theme=tokyonight" alt="amnayounuss" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnayounuss&theme=tokyonight" /> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnayounuss&theme=tokyonight" alt="Top Langs">
+  
 </p>
 
       
